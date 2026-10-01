@@ -14,3 +14,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
 - GitHub Actions as the automation layer behind repository workflows.
 - Recent GitHub Blog and Changelog stories worth watching.
+
+## Recent updates worth watching
+
+- **Copilot CLI v1.0.91 (2026-10-01):** adds `copilot sandbox ca` commands to check, create, trust, rotate, and remove proxy CA trust for sandboxed commands. Source: https://github.com/github/copilot-cli/releases/tag/v1.0.91
