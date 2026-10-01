@@ -12,6 +12,7 @@ permissions:
   copilot-requests: write
 network:
   allowed:
+    - defaults
     - github.blog
     - github.com
     - api.github.com
