@@ -69,8 +69,39 @@ If an open pull request already modifies:
 do not create a competing proposal.
  
 Use the configured `noop` safe output with a short explanation.
- 
+
 ## Research
+ 
+Find recent GitHub developments relevant to developers.
+ 
+Preferred discovery sources:
+ 
+- https://github.blog/latest/
+- https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
+ 
+Use these sources when accessible.
+ 
+If an index page cannot be fetched, use other accessible official GitHub
+sources to discover and verify candidate updates.
+ 
+Acceptable authoritative sources include:
+ 
+- individual articles on github.blog
+- GitHub changelog articles
+- official GitHub repositories
+- GitHub API repository data
+- official GitHub documentation
+ 
+Do not require an index page itself to be successfully fetched in order
+to use an individual official article.
+ 
+Never invent or infer an update from commit messages alone.
+ 
+Only update the page when the factual claims can be verified from an
+official GitHub source.
+ 
+<!-- ## Research
  
 Look for recent GitHub developments that provide practical value to
 developers and fit the existing editorial angle of
@@ -95,7 +126,7 @@ Instead:
 4. Skip an item if it cannot be verified from an official source.
  
 A failure to read one source must not terminate the research if other
-official sources remain available.
+official sources remain available. -->
  
 ## Editorial requirements
  
