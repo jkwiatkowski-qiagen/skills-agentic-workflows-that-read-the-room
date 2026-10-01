@@ -2,7 +2,7 @@
 name: update-github-info
 description: Propose concise, source-backed updates to the GitHub Info content page.
 strict: true
-engine: claude
+engine: copilot
 on:
   schedule: daily
   workflow_dispatch:
